@@ -10,11 +10,11 @@
 // @description:zh-CN   在新浪微博(weibo.com)的个人页面添加一个[删除]按钮，点击直接删除此条微博
 // @description:zh-HK   在新浪微博(weibo.com)的個人頁面添加一個[删除]按鈕，點擊直接刪除此條微博
 // @description:zh-TW   在新浪微博(weibo.com)的個人頁面添加一個[删除]按鈕，點擊直接刪除此條微博
-// @description:en      Add a [一键删除] button to the Followers Page on Sina Weibo (weibo.com). Directly delete the annoying fans by one click. No <确认/取消> any more.
+// @description:en      Add a [一键删除] button to directly delete the post by one click. No <确认/取消> any more.
 // @description:ja      在フォロワーページに[X]ボタンを追加します。 ワンクリックで、迷惑なフォロワーを直接削除します。これ以上の<Y / N>はありません。
-// @version             0.0.1
+// @version             0.0.2
 // @author              catscarlet
-// @match               http://weibo.com/*
+// @match               https://weibo.com/*
 // @require             https://code.jquery.com/jquery-latest.min.js
 // @compatible          chrome  支持
 // @run-at              document-end

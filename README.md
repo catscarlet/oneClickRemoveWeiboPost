@@ -4,11 +4,11 @@
 
 ## 安装
 
-Chrome用户需要安装 **<暴力猴 扩展程序>**：[谷歌商店链接](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN)，[GitHub链接](https://github.com/violentmonkey/violentmonkey/releases/latest)。
+Chrome用户需要安装 **<暴力猴 扩展程序>**：[谷歌商店链接](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)，[GitHub链接](https://github.com/violentmonkey/violentmonkey/releases/latest)。
 
 脚本安装地址：<https://greasyfork.org/zh-CN/scripts/32313-oneclickremoveweibopost>，点击页面上的 **安装此脚本** 即可。
 
-其他浏览器未经过测试，请尝试 Tampermonkey  Greasemonkey、或同类扩展。
+其他浏览器未经过测试，请尝试 Tampermonkey，Greasemonkey，或同类扩展。
 
 ## 反馈
 
